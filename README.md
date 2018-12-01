@@ -1,2 +1,2 @@
 # LioanRepository
-one of lixiaoxiong's repository that include some documents and codes,welcome to use,have joy!
+first lixiaoxiong's repository that include some documents and codes,welcome to use,have joy!
